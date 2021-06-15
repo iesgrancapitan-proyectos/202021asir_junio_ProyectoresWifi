@@ -11,6 +11,8 @@ Con este proyecto pretendemos conseguir hayar la solución más conveniente para
 
 ## 2. Información sobre despliegue
 
+La idea sería implementar el proyecto en todas las aulas, pero empezaremos haciendo una demostración en una única aula piloto.
+
 Para llevar a cabo este proyecto con éxito se ha necesitado de un análisis previo de la infraestructura disponible de todas las aulas del centro escolar. Esto quiere decir que se ha recogido la siguiente información de cada aula:
 * **Tipo de proyector.**
 * **Conexiones disponibles del proyecor, HDMI, VGA, USB...**
