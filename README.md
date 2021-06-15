@@ -27,4 +27,4 @@ Para ello en smartphones y tablets Android y Apple, usaremos la aplicación cono
 
 ## 4. Autor
 
-Manuel Gutiérrez Guijarro.
+[Manuel Gutiérrez Guijarro](https://github.com/manuelgutierrezguijarro).
