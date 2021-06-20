@@ -17,7 +17,7 @@ La idea sería implementar el proyecto en todas las aulas, pero empezaremos haci
 
 Para llevar a cabo este proyecto con éxito se ha necesitado de un análisis previo de la infraestructura disponible de todas las aulas del centro escolar. Esto quiere decir que se ha recogido la siguiente información de cada aula:
 * **Tipo de proyector.**
-* **Conexiones disponibles del proyecor, HDMI, VGA, USB...**
+* **Conexiones disponibles del proyector, HDMI, VGA, USB...**
 * **Índice de conectividad.**
 
 Una vez sabiendo de que se tenía en cada aula, se dispuso a realizar un exhausto proceso de documentación de las tecnologías y dispositivos que podrían ser la solución a dicho problemas. Depués, se llevó a cabo una comparativa entre las tecnologías y los dispositivos, para así poder aclarar cuál sería la solución ideal para el proyecto en cuestión.
