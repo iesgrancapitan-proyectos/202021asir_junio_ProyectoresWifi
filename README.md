@@ -1,6 +1,8 @@
-# Proyecto Integrado Proyectores WiFi
+# [Proyecto Integrado Proyectores WiFi](https://github.com/iesgrancapitan-proyectos/202021asir_junio_ProyectoresWifi/wiki)
 
 Una solución sencilla, eficaz y económica para proyectar contenido desde nuestros dispositivos en un proyector sin necesidad de ningún cable.
+
+**_Pinchar en el título para acceder a la Wiki del proyecto._**
 
 ## 1. Descripción del proyecto
 
