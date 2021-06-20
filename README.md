@@ -6,7 +6,7 @@ Una solución sencilla, eficaz y económica para proyectar contenido desde nuest
 
 ## 1. Descripción del proyecto
 
-Con este proyecto pretendemos conseguir hayar la solución más conveniente para enviar contenido de nuestros dispositivos (smartphones, ordenadores, tablets...) a los proyectores de las aulas, teniendo en cuenta ciertos factores como:
+Con este proyecto pretendemos conseguir hallar la solución más conveniente para enviar contenido de nuestros dispositivos (smartphones, ordenadores, tablets...) a los proyectores de las aulas, teniendo en cuenta ciertos factores como:
 * **Sencillo de usar e implementar.**
 * **Económico.**
 * **Universal.**
