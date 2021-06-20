@@ -1,6 +1,6 @@
 # Proyecto Integrado Proyectores WiFi
 
-Una solución sencilla, eficaz y económica para proyectar contenido desde nuestros dispositivos en un proyector.
+Una solución sencilla, eficaz y económica para proyectar contenido desde nuestros dispositivos en un proyector sin necesidad de ningún cable.
 
 ## 1. Descripción del proyecto
 
